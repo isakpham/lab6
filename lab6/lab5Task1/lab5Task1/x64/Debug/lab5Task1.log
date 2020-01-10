@@ -1,0 +1,55 @@
+﻿  lab5task1.cpp
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(83,5): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(95,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(95,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(95,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(95,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(112,197): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(112,194): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(112,191): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(112,188): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(117,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(117,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(117,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(117,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(117,47): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(117,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(117,62): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(117,62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(131,179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(131,176): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(131,173): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(131,170): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(137,26): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(137,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(137,34): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(137,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(137,45): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(137,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(137,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(137,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(137,72): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(137,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(148,151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(148,148): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(148,145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(148,142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(163,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(164,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(165,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(165,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(372,22): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(372,22): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(380,23): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(387,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(387,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(400,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(400,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(409,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(409,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(424,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(424,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(433,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(433,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\lab5Task1\lab5task1.cpp(236,12): warning C4101: 'e': unreferenced local variable
+  lab5Task1.vcxproj -> C:\Users\Isak Marklund\source\repos\lab6\lab5Task1\x64\Debug\lab5Task1.exe
