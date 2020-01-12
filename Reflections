@@ -1,0 +1,13 @@
+In this lab I really got to practice how to make pointers to class objects which at first thought was fairly difficult to do 
+but by the time I had finished with the lab with less difficulties (still need to think about it when I do it though).
+I found planning a realistic sized project was probably the hardest. It’s very easy for the imagination to go a bit overboard. 
+Since I spend about half of the ‘break’ with a cold I had to completely re-plan my project, it made it difficult to make something 
+that I really wanted to do. 
+
+I found that the doubly linked list in concept was straightforward, but in practice was a lot harder. 
+First of I found it really hard to understand why the member function ‘add’ had a node as a parameter, which got a lot clearer when 
+I downloaded the source code on canvas. Secondly I found it hard to understand in which order you were supposed to count from 
+(I might have ended up making a reverse doubly linked list) so sometimes during the programming sessions I spent more time on 
+figuring out why if it was supposed to be ‘getNext’ ‘getPrev’, other than that the lab was challenging but manageable.
+
+I spent roughly 24 hrs on this project
