@@ -1,0 +1,3 @@
+﻿  SinglyLinkedList.cpp
+C:\Users\Isak Marklund\source\repos\lab6Task1_v2\lab6Task1_v2\SinglyLinkedList.cpp(135,23): warning C4018: '<': signed/unsigned mismatch
+  lab6Task1_v2.vcxproj -> C:\Users\Isak Marklund\source\repos\lab6Task1_v2\Debug\lab6Task1_v2.exe
